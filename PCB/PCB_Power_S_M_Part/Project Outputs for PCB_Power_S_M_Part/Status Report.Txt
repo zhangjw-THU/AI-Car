@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Power_S_M_Part.PrjPcb]
+   Generated File[PCB1.RUL]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:04:14 On 2018/7/6
